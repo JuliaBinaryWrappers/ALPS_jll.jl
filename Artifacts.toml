@@ -1,0 +1,228 @@
+[[ALPS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3486156795a4dbdc1838030853e81a71096596d8"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "4350b3f28851dfd637f677133431a67421d38b738be9d7d5da1fd2ae50b37598"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.aarch64-linux-gnu-cxx03.tar.gz"
+[[ALPS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4b4e7497279cfdbe6b110b07238877d17df5aac"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "78b7888c340623bd473cc21d9a32dac3a26476469c296d87729bd3740d4bfe2b"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.aarch64-linux-gnu-cxx11.tar.gz"
+[[ALPS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec7cb183c2ab6d5b430db79bcb4018de787cab9f"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "4891f8c2e275357b78c71f08e7755b71f7900045458c28339beb49d1465139af"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.aarch64-linux-musl-cxx03.tar.gz"
+[[ALPS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01c97938927fd9ab8b568116c80855d6be9816fa"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "c27da059bd4b3cd460f8d19de286d20ac6cf0c0b82d7025fe1d5c41f97665743"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.aarch64-linux-musl-cxx11.tar.gz"
+[[ALPS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa5b090ee89824ffa72bc28f0cf6da833e628fd7"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "7c67b59e55dbb2f56bbc9c001523b75042d1954b0fb94c1745a15d5f6b87ce3c"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ALPS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0723bebeab5efb14580e4c716bff48667a8e187c"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "dd597bad5668606eb143f809a3a64d7ef293cd6b1745ab37ab47b640569dc022"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ALPS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b955224be47bbff617db81db15d58321f54addf6"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "1363ee128a21b566de550528e312d36e7385dff90b5fe7bc7c8e17f2af4dbc2b"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ALPS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c88f884cce66c225eeb0534f73e057cc865a2946"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "a6eb907990b9e24ad5170f77cc859df5203447a967e4866800bd1d1c20136b11"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a4984c3634525edc6cbd02e97e0cd7b429b56876"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "70df63db09b62c215012624f441056c899baefd3cec68e6bdb977f3321e36de8"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-linux-gnu-cxx03.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8633a26589ca21c7f01cf16d86f162320f4d538d"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "0a74c8adbae3f3a2e0ad96de4e0973d2abb1405b3b8a3f969563a0107049849d"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-linux-gnu-cxx11.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6ba5b00691b476e8f7d3d5e0b3811e34c74c7ca"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "4d560523ad47f95902fac660e2996b7fe085f10961b12522d3e5bc19aa5da080"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-linux-musl-cxx03.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ab6fcf75d1656155f4e17226d329be63750bcb0"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "43660b67b3a04adecc455f489949b55052610c53ad33ed64155bd293afdab693"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-linux-musl-cxx11.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ca584f8866d30911c04c16703edeaa151023e8a"
+os = "windows"
+
+    [[ALPS.download]]
+    sha256 = "1979c6af6bffe8b7370a3139452688634582230e70824c1a53225b9e50cd9504"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-w64-mingw32-cxx03.tar.gz"
+[[ALPS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18559c09ec15072da6877747750f1a03477e61c0"
+os = "windows"
+
+    [[ALPS.download]]
+    sha256 = "e117f16609abae040c67c289b93b64a9f75edaf6262e9e87d779531920b6889a"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.i686-w64-mingw32-cxx11.tar.gz"
+[[ALPS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef97f7909bd80e896999a5497c8476573df4ed2c"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "4b3ae1f361b839da62eb02bd45fcd3ff34340311bb63463bd52e0b9add149523"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ALPS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "95cbfafbcb9cca2c6a4ce8e3099a77b9eb90dbcb"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "87762eb5d53b26b2ad011f2d131c89b9a951db7b527289c5eece9a4ed4bf6c92"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+git-tree-sha1 = "4d7cf6e8ab864aef757d9f6c07cee1d69a3b52ed"
+os = "macos"
+
+    [[ALPS.download]]
+    sha256 = "4d971c0529c0d8e99cb7e06be552480ec83b21e992eb94fff5482240c2615be4"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-apple-darwin.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a60ee9671345ba396787edcd0d9da517fe59209d"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "78c78b70e4ad7ae701ea9125c56fb66abcaf2054b97f82053bd4be12236831a4"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-linux-gnu-cxx03.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a52b6e02a6ef0273eab7f8e9daf5b777f6e55b85"
+libc = "glibc"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "8e9b85bf91ccb87ce8386129394ad322dd8d40920b0fef3b277105a152ad04e8"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-linux-gnu-cxx11.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "31c3d65545ef1a4def503375b670597beaf71254"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "4c31c51eb09da234ed1bc70208d8fcfe93f708ec4663d6d35b3719329d00088b"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-linux-musl-cxx03.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb17be638955d7f2d0f3a3d483f0934bd8276445"
+libc = "musl"
+os = "linux"
+
+    [[ALPS.download]]
+    sha256 = "5d6a30944efd36577ed1a33f47114f79ab106bae57974da6d99b8670eead5b6d"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-linux-musl-cxx11.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "468c0ca9fdbbe1c6edace9e605e8e58b3f207bf4"
+os = "windows"
+
+    [[ALPS.download]]
+    sha256 = "7d4eaeafe7a4b770ca1febca2f6c3aa83e403b8d3607482fb61631b1fc6fd19b"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ALPS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12d13233572a1eaac2eb53ab3f7f1a928d03222c"
+os = "windows"
+
+    [[ALPS.download]]
+    sha256 = "45009b0cb83ee2e061f35a6d6b7fdba300a9fecf05fe8522ae11272120bd47b0"
+    url = "https://github.com/JuliaBinaryWrappers/ALPS_jll.jl/releases/download/ALPS-v100.500.701+0/ALPS.v100.500.701.x86_64-w64-mingw32-cxx11.tar.gz"
