@@ -7,12 +7,12 @@ using Clp_jll
 using Cgl_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("ALPS")
-JLLWrappers.@declare_library_product(libalps, "libAlps-0.dll")
+JLLWrappers.@declare_library_product(libalps, "libAlps-3.dll")
 function __init__()
     JLLWrappers.@generate_init_header(CoinUtils_jll, Osi_jll, Clp_jll, Cgl_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libalps,
-        "bin\\libAlps-0.dll",
+        "bin\\libAlps-3.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
